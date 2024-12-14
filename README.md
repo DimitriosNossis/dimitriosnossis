@@ -1,7 +1,10 @@
-## Hello there 👋
+### Hello there 👋
 
-- 👨‍💻 I’m currently working on getting into Software/ Game Development.
-- 🎮 I’m currently familiarising myself with basic Programming Languages and learning to use every Unreal Engine for a personal project.
+My name is Dimitrios. I am a Physiotherapy Graduate trying to make my way in Software and Game Development!
+
+- 📚 I recently finished CS50x 2024.
+- 🎮 I’m currently familiarising myself with basic Programming Languages.
+- 👨‍💻 I’m currently working on a personal project called "Childhood Dreams" in Unreal Engine.
 - 🙋‍♂️ I’m looking to collaborate on any project that will provide me with experience on Programming.
 
 
