@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-My name is Dimitrios. I am a Physiotherapy Graduate trying to make my way in Software and Game Development!
+My name is Dimitrios. I am a Physiotherapy Graduate trying to make my way in Computer Science and Software Engineering!
 
-- 📚 I recently finished CS50x 2024.
+- 📚 I recently started an MSc in Computer Science.
 - 🕹️ I recently created a mini game called [Pixel Wars](https://souldr.itch.io/pixelwars).
 - 🎮 I’m currently familiarising myself with basic Programming Languages.
 - 👨‍💻 I’m currently working on a personal project called "Childhood Dreams" in Unreal Engine.
